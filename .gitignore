@@ -5,3 +5,4 @@
 *.lck
 *-backups/
 *.kicad_prl
+_autosave-*
