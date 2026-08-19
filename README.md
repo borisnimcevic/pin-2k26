@@ -12,3 +12,4 @@ Design assets for the BalCCon 2k26 PCB-style pin/badge.
 - `png/swatches/` — small reference color swatches (FR4 board color, grey)
 - `balccon-2k26-hardware/` — KiCad project for the physical pin/badge PCB (schematic, board, routed and with silkscreen finished)
   - `pcb-svg/` — SVG layers exported from KiCad (`copper.svg`, `mask-front.svg`, `mask-back.svg`, `silkscreen-front.svg`, `esge-cuts.svg`, `hex.svg`, `log.svg`, `date.svg`)
+  - `fabrication/` — Gerber and drill files exported for board fabrication
